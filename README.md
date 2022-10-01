@@ -5,3 +5,5 @@ This is just to test, How to host a static web in github pages with just markdow
 |----|----|----|
 |Colum One|Column Two|Column Three|
 
+- [Git Chetsheet](./git/cheatsheet.md)
+- [k8s Chetsheet](./k8s/K8SREADME.md)
